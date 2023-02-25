@@ -1,5 +1,7 @@
 # MapsUI
-MapsUI 오픈소스 통한 지도
+MapsUI - googleMap없이 사용하기
+
+가이드라인 http://mapsui.com/documentation/contributors-guidelines.html
 
 
 ![image](https://user-images.githubusercontent.com/54387261/221359499-55b9bfe0-c017-4047-9beb-f151851a1232.png)
